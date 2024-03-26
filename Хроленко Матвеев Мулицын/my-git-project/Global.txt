@@ -1,0 +1,2 @@
+user.name=Baza52
+user.email=baza52@email.com
